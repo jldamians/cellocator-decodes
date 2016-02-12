@@ -6,9 +6,9 @@
     "node": ">=0.10.25"
   },
   "author": "JL Damian Saavedra (jlds161089@gmail.com)",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
+    "convert-base": "^0.1.0"
   },
   "repository": {
     "type": "git",
@@ -29,6 +29,5 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "scripts": {
-  }
+  "scripts": {}
 }

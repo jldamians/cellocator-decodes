@@ -1,0 +1,5 @@
+# archivo log de npm
+npm-debug.log
+
+# carpeta de dependencias de npm
+node_modules
