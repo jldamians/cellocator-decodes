@@ -1,6 +1,6 @@
-var Util = require('./lib/util');
+var util = require('./lib/util');
 
-var util = new Util() ;
+//var util = new Util() ;
 var trama = '00856308000004B2DE1F04009E00200100000000696CF7AB002F1A00000000000000325C000402069BFDE70857E22502F41C000036000000DF0B0932100B09DC07';
 console.log(util.checksum(trama)) ;
 /*var checksum = 0 ;
