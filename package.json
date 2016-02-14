@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=0.10.25"
   },
-  "author": "JL Damian Saavedra (jlds161089@gmail.com)",
+  "author": "Jose Luis Damian Saavedra (jlds161089@gmail.com)",
   "dependencies": {},
   "devDependencies": {
     "convert-base": "^0.1.0",
