@@ -8,7 +8,8 @@
   "author": "JL Damian Saavedra (jlds161089@gmail.com)",
   "dependencies": {},
   "devDependencies": {
-    "convert-base": "^0.1.0"
+    "convert-base": "^0.1.0",
+    "moment": "~2.11.2"
   },
   "repository": {
     "type": "git",
