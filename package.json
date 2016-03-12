@@ -9,8 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "convert-base": "^0.1.0",
-    "moment": "~2.11.2",
-    "add-subtract-date": "~1.0.1"
+    "moment": "~2.11.2"
   },
   "repository": {
     "type": "git",
