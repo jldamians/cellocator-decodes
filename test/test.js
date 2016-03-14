@@ -68,6 +68,4 @@ describe('Util', function() {
 			assert.equal('4D', util.checksum('0057E70700000000000002020202000000000000'));
 		});
 	});
-
-
 });
