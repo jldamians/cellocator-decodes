@@ -40,6 +40,6 @@
   ],
   "scripts": {
     "start": "node ./example/example01.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test"
   }
 }

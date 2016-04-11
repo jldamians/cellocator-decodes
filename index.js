@@ -1,6 +1,6 @@
 'use strict';
 
 module.exports = {
-  cellocator: require('./lib/cellocator'),
-  commands: require('./lib/commands')
+  Decode: require('./lib/decode').Decode,
+  Commands: require('./lib/commands').Commands
 };
