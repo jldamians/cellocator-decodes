@@ -39,7 +39,7 @@
     }
   ],
   "scripts": {
-    "start": "node ./example/example01.js",
+    "start": "node ./examples/example01.js",
     "test": "mocha test"
   }
 }
