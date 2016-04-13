@@ -1,6 +1,4 @@
 'use strict';
 
-module.exports = {
-  Decode: require('./lib/decode').Decode,
-  Commands: require('./lib/commands').Commands
-};
+module.exports = require('./lib/');
+//console.log(require('./lib/'));
