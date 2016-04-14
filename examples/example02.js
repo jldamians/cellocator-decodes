@@ -1,8 +1,7 @@
 'use strict';
 
-var Command = require('../index.js').commands;
-var generic = new Command.generic();
+var Generic = require('../index.js').commands.generic;
   
-console.log(generic.reset('ABCDEF', 'FE'));
-console.log(generic.status('ABCDEF', 'AB'));
-console.log(generic.activateImmobilizer('ABCDEF', 'AB'));
+console.log(Generic.reset('ABCDEF', 'FE'));
+console.log(Generic.status('ABCDEF', 'AB'));
+console.log(Generic.activateImmobilizer('ABCDEF', 'AB'));
