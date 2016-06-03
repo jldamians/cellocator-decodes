@@ -4,7 +4,7 @@ var assert = require('assert');
 var convert = require('../lib/utils/convertBase');
 var trama = require('../lib/utils/handleTrama');
 
-describe('handleDate', function() {
+describe('testing', function() {
   describe('hexToDec({0xFF, 0xff, FF, ff})', function() {
     it('should return 255', function() {
       assert.equal(255, convert.hexToDec('0xFF'));
