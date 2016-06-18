@@ -1,7 +1,7 @@
 'use strict';
 
 var GENERIC_COMMAND_TYPES = require('../index.js').constants.genericCommandTypes;
-var Generic = require('../').commands.generic;
+var Generic = require('../').commands.generic();
 
 console.log(Generic(1208671, 10, GENERIC_COMMAND_TYPES.reset));//reset
 console.log(Generic(470683, 15, GENERIC_COMMAND_TYPES.status));//status
