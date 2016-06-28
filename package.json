@@ -1,6 +1,6 @@
 {
   "name": "cellocator-decodes",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Decodificación de trama CELLOCATOR",
   "engines": {
     "node": ">=0.10.25"
