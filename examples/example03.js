@@ -1,5 +1,5 @@
 'use strict';
 
-var ack = require('../index.js').commands.ack;
+var Ack = require('../index.js').commands.Ack;
 
-console.log(ack(219999, 100, 120));
+console.log(new Ack(219999, 100, 120));

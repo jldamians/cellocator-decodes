@@ -1,4 +1,3 @@
 'use strict';
 
-module.exports = require('./lib/');
-//console.log(require('./lib/'));
+module.exports = require('./lib');
